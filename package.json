@@ -1,9 +1,9 @@
 {
   "name": "iobroker.pvforecast",
   "version": "2.3.0",
-  "description": "pvforecast",
+  "description": "pvforecast-bythestealth",
   "author": {
-    "name": "Patrick Walther",
+    "name": "Patrick Walther-thestealth",
     "email": "walther-patrick@gmx.net"
   },
   "contributors": [
