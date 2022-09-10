@@ -26,7 +26,7 @@ class Pvforecast extends utils.Adapter {
 
 		this.globalEveryHour = {};
 
-		this.reqInterval = 60;
+		this.reqInterval = 90;
 		this.hasApiKey = false;
 
 		this.longitude = undefined;
